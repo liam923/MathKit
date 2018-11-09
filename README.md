@@ -21,11 +21,6 @@
 
 
 ## Installation
-#### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `MathKit` by adding it to your `Podfile`:
-```ruby
-pod 'MathKit'
-```
 #### Swift Package Manager
 Add `MathKit` as a dependency in your `Package.swift` file:
 ```swift
